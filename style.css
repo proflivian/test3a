@@ -1,0 +1,25 @@
+.titulo{
+    color: blue;
+    font-size: 20px;
+}
+
+h1{
+    font-family: times new roman;
+    text-align: center;
+}
+
+#subtitulo{
+    color: rgb(91, 166, 17);
+}
+
+.negrito{
+    color: rgb(186, 20, 20);
+}
+
+body{
+    background-color: rgb(234, 211, 180);
+}
+
+.sublinhado{
+    background: yellow;
+}
